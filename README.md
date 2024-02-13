@@ -1,2 +1,3 @@
 ﻿# Algorithms
- Programs created by me
+Programs created by me
+Solving problems 
